@@ -1,25 +1,27 @@
-# Getting Started
 
-Welcome to your new project.
+# Assessment Overview
 
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+Scenario-2: Fiori Elements Navigation, Draft Management, i18n Folder
 
 
-## Next Steps
+## Screenshots
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+### 1. Navigations
+![List Page](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image.png?raw=true)
 
+![Object Page](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image6.png?raw=true)
 
-## Learn More
+![Object Page](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image%20copy.png?raw=true)
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+### 2. Search Capability
+![Search Fields](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image2.png?raw=true)
+
+### 3. Draft Management
+
+![1](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image3.png?raw=true)
+
+![2](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image4.png?raw=true)
+
+![3](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image5.png?raw=true)
+
+![4](https://github.com/Hanveshith/CAPM_Assessment_Scenario_2/blob/main/images/image6.png?raw=true)
